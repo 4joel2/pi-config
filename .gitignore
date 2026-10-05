@@ -1,0 +1,12 @@
+/auth.json
+/web-search.json
+/sessions/
+/npm/
+/git/
+/web-search-cache/
+/you-should-know/
+.venv/
+.env
+.env.*
+__pycache__/
+*.pyc

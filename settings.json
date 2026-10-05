@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "npm:pi-ask-user-question@1.0.0",
+    "npm:pi-web-access@0.36.0",
+    "git:github.com/aliceisjustplaying/pi-you-should-know@1322e7410e7b3f08bf4bd03ab9728d996c647d0c",
+    "npm:@majorgilles/pi-grill-me@0.3.0"
+  ],
+  "lastChangelogVersion": "1.0.0"
+}
